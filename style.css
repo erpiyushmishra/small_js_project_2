@@ -24,6 +24,7 @@
     border: none;
     outline: none;
     border-radius: 3vw;
+    cursor: pointer;
 }
 .hexcode{
     font-size: 2vw;
