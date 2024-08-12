@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    width:100vw;
+    height:100vh;
+    padding:6vw;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap:18vw;
+}
+.body{
+    display: flex;
+    flex-direction: column;
+    gap:5vw;
+}
+.btn{
+    padding:10px 2vw;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 3vw;
+}
+.hexcode{
+    font-size: 2vw;
+    transform: translateX(25%)
+}
